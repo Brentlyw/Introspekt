@@ -13,3 +13,6 @@ A powerful malware sample reconnaissance tool.
 - Anti-VM Function Identification
 - Anti-Analysis Function Identification
 - YARA Scanning (445 Suspicious Marker YARA Rules)
+
+# Future Improvements
+- Behavioral analysis with symbolic execution (via angr)
