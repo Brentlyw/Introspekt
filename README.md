@@ -12,4 +12,4 @@ A powerful malware sample reconnaissance tool.
 - Anti-Debug Function Identificaton
 - Anti-VM Function Identification
 - Anti-Analysis Function Identification
-- 445 Suspicious Marker YARA Rules
+- YARA Scanning (445 Suspicious Marker YARA Rules)
